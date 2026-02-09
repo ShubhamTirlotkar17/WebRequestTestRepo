@@ -1,49 +1,31 @@
 {
-    "rowCount": 5,
-    "colCount": 6,
-    "type": 0,
-    "letters": "ANIKET",
+    "rowCount": 3,
+    "colCount": 3,
+    "letters": "OPT",
     "words": [
         {
-            "word": "ANIKET",
-            "vertical": false,
-            "rowIndex": 2,
-            "colIndex": 0,
-            "coinIndices": [],
-            "awardCoins": false
-        },
-        {
-            "word": "EAT",
+            "word": "POT",
             "vertical": true,
             "rowIndex": 0,
-            "colIndex": 5,
+            "colIndex": 2,
             "coinIndices": [],
             "awardCoins": false
         },
         {
-            "word": "ANT",
+            "word": "TO",
             "vertical": true,
-            "rowIndex": 2,
+            "rowIndex": 0,
             "colIndex": 0,
             "coinIndices": [],
             "awardCoins": false
         },
         {
-            "word": "KIT",
-            "vertical": true,
-            "rowIndex": 2,
-            "colIndex": 3,
-            "coinIndices": [],
-            "awardCoins": false
-        },
-        {
-            "word": "TEN",
+            "word": "TOP",
             "vertical": false,
-            "rowIndex": 4,
-            "colIndex": 3,
+            "rowIndex": 0,
+            "colIndex": 0,
             "coinIndices": [],
             "awardCoins": false
         }
-    ],
-    "id": "703eb99d48d87225801ff4f78db4c116"
+    ]
 }
